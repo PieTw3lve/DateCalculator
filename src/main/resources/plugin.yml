@@ -4,7 +4,7 @@ version: 1.0.0
 api-version: 1.15
 author: PieTw3lve
 website: https://github.com/PieTw3lve/DateCalculator
-description: A simple plugin to calculate the difference between two dates.
+description: A straightforward and lightweight plugin that enables you to calculate dates.
 
 # This sets PlaceholderAPI as a dependency for your plugin.
 depend: [PlaceholderAPI]
