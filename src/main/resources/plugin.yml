@@ -1,6 +1,6 @@
 name: DateCalculator
 main: com.github.pietw3lve.datecalculator.DateCalculatorPlugin
-version: 1.0.0
+version: 1.0.1
 api-version: 1.15
 author: PieTw3lve
 website: https://github.com/PieTw3lve/DateCalculator
