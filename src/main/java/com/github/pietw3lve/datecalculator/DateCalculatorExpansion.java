@@ -37,7 +37,6 @@ public class DateCalculatorExpansion extends PlaceholderExpansion {
         // %datecalculator_daysbetweentoday_<yyyy-MM-dd>%
         if (identifier.startsWith("daysbetweentoday_")) {
             String targetDate = identifier.substring(17);
-            plugin.getLogger().info(targetDate);
             return plugin.getDaysBetweenToday(targetDate);
         }
         return null;
