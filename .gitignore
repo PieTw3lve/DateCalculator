@@ -1,0 +1,4 @@
+# Ignore
+.vscode/
+target/
+src/test/
